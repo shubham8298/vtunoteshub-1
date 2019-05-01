@@ -310,11 +310,11 @@ footer.second p{
 	text-decoration:none;
 }
 .one-fourth a:hover,.one-half a:hover,.one-third a:hover{
-	background-color:gray;
+	/*background-color:gray;*/
 	color:white;
 }
 .one-fourth a:active,.one-half a:active,.one-third a:active{
-	background-color:black;
+	/*background-color:black;*/
 }
 .one-fourth a:visited,.one-half a:visited,.one-third a:visited{
 	color:white;
